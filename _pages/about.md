@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Contact MIMI’s roommate at [keon.zhao78910@gmail.com](mailto:keon.zhao78910@gmail.com)
+subtitle: ""
 
 profile:
   align: right
