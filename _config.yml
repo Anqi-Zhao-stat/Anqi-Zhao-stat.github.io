@@ -50,6 +50,9 @@ search_enabled: true
 socials_in_search: false
 posts_in_search: true
 bib_search: false
+projects_in_search: false
+books_in_search: false
+news_in_search: true
 
 # Dimensions
 max_width: 930px
