@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: " '我咬故我在' "
+subtitle: "<span class='chinese'> '我咬故我在' </span>"
+
 
 profile:
   align: right
