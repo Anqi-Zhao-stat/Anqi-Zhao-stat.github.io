@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: " '猫的自我介绍' "
+subtitle: " '我咬故我在' "
 
 profile:
   align: right
