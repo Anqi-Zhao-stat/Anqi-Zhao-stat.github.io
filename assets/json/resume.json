@@ -25,6 +25,7 @@
       }
     ]
   },
+
   "education": [
     {
       "institution": "North Carolina State University",
@@ -59,8 +60,8 @@
         "Quantitative Macroeconomics"
       ]
     }
-  ]
-},
+  ],
+
   "research": [
     {
       "institution": "North Carolina State University",
@@ -131,8 +132,7 @@
       "startDate": "2024-08",
       "endDate": "2024-12"
     }
-  ]
-},
+  ],
 
   "volunteer": [
     {
