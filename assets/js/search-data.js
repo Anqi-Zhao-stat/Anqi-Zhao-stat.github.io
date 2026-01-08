@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
@@ -30,84 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-can-you-see-the-sunset-the-way-i-do",
-        
-          title: "Can you see the sunset the way I do?",
-        
-        description: "Adorable",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/sunset/";
-          
-        },
-      },{id: "post-her-first-christmas",
-        
-          title: "Her first Christmas",
-        
-        description: "Adorable",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/christmas/";
-          
-        },
-      },{id: "post-the-eight-crimes-of-the-cat",
-        
-          title: "The Eight Crimes of the Cat",
-        
-        description: "An official record of the eight transgressions committed by the feline entity known as Catzilla.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/8crimes/";
-          
-        },
-      },{id: "post-catzilla-v-s-human",
-        
-          title: "Catzilla v.s. Human",
-        
-        description: "An ancient struggle between the feline overlord and its human caretaker.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/videos/";
-          
-        },
-      },{id: "post-the-sealing-of-the-demon",
-        
-          title: "The Sealing of the Demon",
-        
-        description: "The gates were closed, yet the power remained.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/hospital/";
-          
-        },
-      },{id: "post-the-coming-of-the-cat",
-        
-          title: "The Coming of the Cat",
-        
-        description: "She was not chosen. She was unleashed.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/catcome/";
-          
-        },
-      },{id: "post-the-first-omen",
-        
-          title: "The First Omen",
-        
-        description: "A cat was born, and the house was no longer silent.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/catface/";
-          
-        },
-      },{id: "news-i-have-officially-declared-professor-jungeum-kim-as-my-ph-d-advisor",
+        },{id: "news-i-have-officially-declared-professor-jungeum-kim-as-my-ph-d-advisor",
           title: 'I have officially declared Professor Jungeum Kim as my Ph.D. advisor.',
           description: "",
           section: "News",},{
