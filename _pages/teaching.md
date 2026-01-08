@@ -1,10 +1,29 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Instruction conducted under feline supervision.
+title: Teaching
+description: Teaching experience and instructional activities.
 nav: true
 nav_order: 6
 ---
 
-All teaching activities were carried out in accordance with established academic standards and under continuous feline supervision.
+
+## Teaching Experience
+
+### Instructor 
+
+**ST 311: Introduction to Statistics**  
+North Carolina State University  
+Course information: https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2025:8:1:ST:311:311
+
+
+### Teaching Assistant
+
+**ST 542: Statistical Learning and Data Analytics**  
+North Carolina State University  
+Course information: https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2024:6:10W:ST:542:651
+
+**ST 512: Introduction to Statistical Programming**  
+North Carolina State University  
+Course information: https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2024:8:1:ST:512:001
+
