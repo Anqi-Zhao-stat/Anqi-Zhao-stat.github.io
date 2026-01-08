@@ -107,14 +107,8 @@ ninja.data = [{
             window.location.href = "/blog/2025/catface/";
           
         },
-      },{id: "news-and-it-came-to-pass-that-a-small-creature-was-brought-forth-into-the-world-and-mischief-was-made-flesh",
-          title: 'And it came to pass that a small creature was brought forth into...',
-          description: "",
-          section: "News",},{id: "news-and-the-cat-crossed-the-threshold-and-dwelt-among-us-and-every-quiet-place-was-claimed-as-her-own",
-          title: 'And the Cat crossed the threshold and dwelt among us, and every quiet...',
-          description: "",
-          section: "News",},{id: "news-and-the-cat-was-delivered-unto-the-healers-and-her-path-was-altered-yet-her-dominion-remained",
-          title: 'And the Cat was delivered unto the healers, and her path was altered,...',
+      },{id: "news-i-have-officially-declared-professor-jungeum-kim-as-my-ph-d-advisor",
+          title: 'I have officially declared Professor Jungeum Kim as my Ph.D. advisor.',
           description: "",
           section: "News",},{
       id: 'light-theme',
