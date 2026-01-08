@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Instruction conducted under feline supervision.",
+          title: "Teaching",
+          description: "Teaching experience and instructional activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
