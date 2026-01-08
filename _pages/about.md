@@ -34,5 +34,9 @@ latest_posts:
 ---
 
 I am a Ph.D. candidate in Statistics at North Carolina State University. My current research interests include machine learning, conformal prediction, and causal inference.
+
+
 I am advised by Professor Jungeum Kim. I currently conduct research in biostatistics and causal inference under the supervision of Professor Shu Yang, with a focus on developing conformal prediction methods for treatment regime learning. I also collaborate with Professor Wenbin Lu on reinforcement learning approaches for survival analysis.
+
+
 Prior to joining NC State, I earned an M.S. in Statistics from the University of Washington and a B.A. in Quantitative Economics, with a minor in Statistics, from the University of California, Irvine.
