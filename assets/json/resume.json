@@ -1,163 +1,175 @@
 {
   "basics": {
-    "name": "Mimi the Cat",
-    "label": "Domestic Entity (Feline)",
-    "image": "",
-    "phone": "(000) 666-6666",
-    "url": "https://keonzhao.github.io",
-    "summary": "A small four-legged being of uncertain origin, widely acknowledged as the primary authority within the household and a known disruptor of linear time, sleep cycles, and free will.",
+    "name": "Anqi Zhao",
+    "label": "Ph.D. Candidate in Statistics",
+    "email": "azhao6@ncsu.edu",
+    "phone": "+1-949-561-7457",
+    "url": "https://Anqi-Zhao-stat.github.io",
+    "summary": "Ph.D. candidate in Statistics at North Carolina State University with research interests in causal inference, conformal prediction, reinforcement learning for survival analysis, and statistical learning.",
     "location": {
-      "address": "On the Desk",
-      "postalCode": "27606",
-      "city": "Living Room",
-      "countryCode": "XX",
-      "region": "The Apartment"
+      "address": "2311 Stinson Drive, 5109 SAS Hall",
+      "postalCode": "27695",
+      "city": "Raleigh",
+      "region": "NC",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Meowter",
-        "username": "@mimi_the_omen",
-        "url": "https://example.com"
+        "network": "LinkedIn",
+        "username": "anqi-z-760063252",
+        "url": "https://www.linkedin.com/in/anqi-z-760063252/"
+      },
+      {
+        "network": "GitHub",
+        "username": "anqi-zhao-stat",
+        "url": "https://github.com/anqi-zhao-stat"
       }
     ]
   },
 
-  "work": [
+  "education": [
     {
-      "name": "Primary Residence",
-      "position": "Supreme Overseer",
-      "url": "https://example.com",
-      "startDate": "2025-06-07",
+      "institution": "North Carolina State University",
+      "location": "Raleigh, NC",
+      "studyType": "Ph.D.",
+      "area": "Statistics",
+      "startDate": "2024",
       "endDate": "",
-      "summary": "Responsible for monitoring all human activities, enforcing feeding schedules, and supervising laptop usage. Frequently interrupts work to demand worship.",
-      "highlights": ["Keyboard Occupation", "Midnight Screaming", "Chair Theft"]
+      "summary": "Advisor: Jungeum Kim. Member of Mu Sigma Rho, the National Statistics Honorary Society."
+    },
+    {
+      "institution": "University of Washington",
+      "location": "Seattle, WA",
+      "studyType": "M.S.",
+      "area": "Statistics",
+      "startDate": "2022",
+      "endDate": "2024",
+      "score": "GPA: 3.96/4.0"
+    },
+    {
+      "institution": "University of California, Irvine",
+      "location": "Irvine, CA",
+      "studyType": "B.A.",
+      "area": "Quantitative Economics (Minor in Statistics)",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "GPA: 3.976/4.0, Magna Cum Laude",
+      "courses": [
+        "Econometrics",
+        "Industrial Organization",
+        "Quantitative Microeconomics",
+        "Quantitative Macroeconomics"
+      ]
+    }
+  ],
+  "research": [
+    {
+      "institution": "North Carolina State University",
+      "location": "Raleigh, NC",
+      "position": "Research with Professor Wenbin Lu",
+      "startDate": "2025-09",
+      "endDate": "",
+      "summary": "Methodological research on reinforcement learning approaches for survival analysis.",
+      "highlights": [
+        "Reinforcement learning for survival and censored data",
+        "Collaboration with Jungeum Kim"
+      ]
+    },
+    {
+      "institution": "North Carolina State University",
+      "location": "Raleigh, NC",
+      "position": "Research with Professor Shu Yang",
+      "startDate": "2025-01",
+      "endDate": "",
+      "summary": "Research in biostatistics and causal inference.",
+      "highlights": [
+        "Conformal prediction methods for treatment regime learning",
+        "Collaboration with Ke Zhu, Jungeum Kim, and Yichi Zhang"
+      ]
+    },
+    {
+      "institution": "University of Washington",
+      "location": "Seattle, WA",
+      "position": "Research with Professor Jing Tao",
+      "startDate": "2023-01",
+      "endDate": "2023-09",
+      "summary": "Econometric research focused on demand estimation.",
+      "highlights": [
+        "Python-based implementation of econometric models",
+        "Parameter estimation in demand systems"
+      ]
+    },
+    {
+      "institution": "University of California, Irvine",
+      "location": "Irvine, CA",
+      "position": "Independent Study with Professor Matthew Harding",
+      "startDate": "2022-01",
+      "endDate": "2022-03",
+      "summary": "Independent study involving literature review and applied statistical modeling on large-scale advertising and social network data."
+    }
+  ],
+
+  "teaching": [
+    {
+      "institution": "North Carolina State University",
+      "position": "Hybrid Instructor",
+      "course": "ST 311: Introduction to Statistics",
+      "startDate": "2025-08",
+      "endDate": "2025-12",
+      "summary": "Taught elementary probability and foundational statistical inference, including confidence intervals and hypothesis testing. Held in-person class sessions and office hours."
+    },
+    {
+      "institution": "North Carolina State University",
+      "position": "Teaching Assistant",
+      "course": "ST 542: Statistical Learning and Data Analytics",
+      "startDate": "2025-06",
+      "endDate": "2025-07"
+    },
+    {
+      "institution": "North Carolina State University",
+      "position": "Teaching Assistant",
+      "course": "ST 512: Introduction to Statistical Programming",
+      "startDate": "2024-08",
+      "endDate": "2024-12"
     }
   ],
 
   "volunteer": [
     {
-      "organization": "Human Sleep Deprivation Initiative",
-      "location": "Bedroom",
-      "position": "Night Shift Coordinator",
-      "url": "https://example.com",
-      "startDate": "2025-06-07",
-      "endDate": "",
-      "summary": "Voluntarily sacrifices silence between 2:00–5:00 AM to ensure humans remain alert and spiritually unsettled.",
-      "highlights": [
-        "Unexplained Yowling",
-        "Sudden Sprinting",
-        "Awarded 'Most Loud Creature' by Humans"
-      ]
-    }
-  ],
-
-  "education": [
-    {
-      "institution": "School of Hard Knocks (Table Edition)",
-      "location": "Kitchen Counter",
-      "url": "https://example.com",
-      "area": "Object Physics",
-      "studyType": "Self-Taught",
-      "startDate": "2025-06-07",
-      "endDate": "",
-      "score": "Perfect",
-      "courses": ["Gravity Verification", "Cup Pushing"]
-    }
-  ],
-
-  "awards": [
-    {
-      "title": "Most Innocent Looking Criminal",
-      "date": "2025-06-07",
-      "awarder": "The Humans",
-      "url": "https://example.com",
-      "summary": "Awarded for committing acts of destruction while maintaining an expression of absolute purity."
-    }
-  ],
-
-  "certificates": [
-    {
-      "name": "Certified Lap Occupier",
-      "date": "2025-06-07",
-      "issuer": "International Feline Council",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-cat"
+      "organization": "American Statistical Association DataFest 2025 at NCSU",
+      "position": "Mentor",
+      "startDate": "2025-03",
+      "endDate": "2025-03",
+      "summary": "Mentor at ASA DataFest 2025, guiding undergraduate teams in exploratory data analysis and statistical learning."
     },
     {
-      "name": "Advanced Curtain Climbing",
-      "date": "2025-06-07",
-      "issuer": "Vertical Surface Academy",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-arrow-up"
-    }
-  ],
-
-  "publications": [
-    {
-      "name": "On the Sudden Appearance of Zoomies",
-      "publisher": "Journal of Unexplained Behavior",
-      "releaseDate": "2025-06-07",
-      "url": "https://example.com",
-      "summary": "An observational study documenting spontaneous high-speed movement with no identifiable cause."
+      "organization": "American Statistical Association DataFest 2023 at UW",
+      "position": "Mentor",
+      "startDate": "2023-03",
+      "endDate": "2023-04",
+      "summary": "Mentor at ASA DataFest 2023, assisting teams with data analysis strategies."
     }
   ],
 
   "skills": [
     {
-      "name": "Chaos Engineering",
-      "level": "Expert",
-      "icon": "fa-solid fa-bolt",
-      "keywords": [
-        "Item Knocking",
-        "Human Manipulation",
-        "Selective Hearing",
-        "Door Screaming"
-      ]
+      "name": "Statistical Programming",
+      "keywords": ["R", "Python", "SAS", "C++"]
+    },
+    {
+      "name": "Scientific Writing",
+      "keywords": ["LaTeX", "Academic Writing", "Presentations"]
     }
   ],
 
   "languages": [
     {
-      "language": "Meow",
-      "fluency": "Native",
-      "icon": ""
+      "language": "English",
+      "fluency": "Full professional proficiency"
     },
     {
-      "language": "Silence",
-      "fluency": "Strategic",
-      "icon": ""
-    }
-  ],
-
-  "interests": [
-    {
-      "name": "Forbidden Objects",
-      "icon": "fa-solid fa-eye",
-      "keywords": [
-        "Cables",
-        "Plants",
-        "Plastic Bags",
-        "Anything Explicitly Forbidden"
-      ]
-    }
-  ],
-
-  "references": [
-    {
-      "name": "The Human",
-      "icon": "fa-solid fa-user",
-      "reference": "She owns me. I tolerate her."
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "Operation Knock Everything Off",
-      "summary": "A long-term research project investigating whether objects truly belong on surfaces.",
-      "highlights": ["Cup Elimination", "Pen Disposal"],
-      "startDate": "2025-06-07",
-      "endDate": "",
-      "url": "https://example.com"
+      "language": "Mandarin Chinese",
+      "fluency": "Native proficiency"
     }
   ]
 }
