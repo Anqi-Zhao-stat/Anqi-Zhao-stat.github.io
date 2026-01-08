@@ -38,4 +38,4 @@ I am advised by Professor Jungeum Kim. I currently conduct research in biostatis
 
 Prior to joining NC State, I earned an M.S. in Statistics from the University of Washington and a B.A. in Quantitative Economics, with a minor in Statistics, from the University of California, Irvine.
 
-You may find my cat's website here.
+You may find my cat's website [here](https://keonzhao.github.io).
