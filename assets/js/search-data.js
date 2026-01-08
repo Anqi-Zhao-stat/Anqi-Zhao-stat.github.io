@@ -30,14 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-i-passed-the-statistical-theory-exam-at-the-ph-d-level-at-uw",
-          title: 'I passed the Statistical Theory exam at the Ph.D. level at UW.',
+        },{id: "news-i-passed-the-statistical-theory-exam-at-the-ph-d-level-at-uw-department-of-statistics",
+          title: 'I passed the Statistical Theory exam at the Ph.D. level at UW department...',
           description: "",
-          section: "News",},{id: "news-i-passed-the-phd-qualifying-exam-at-ncsu",
-          title: 'I passed the PhD Qualifying exam at NCSU.',
+          section: "News",},{id: "news-i-passed-the-first-year-ph-d-qualifying-exam-at-ncsu-department-of-statistics",
+          title: 'I passed the first-year Ph.D. Qualifying exam at NCSU department of Statistics!!',
           description: "",
           section: "News",},{id: "news-i-have-officially-declared-professor-jungeum-kim-as-my-ph-d-advisor",
-          title: 'I have officially declared Professor Jungeum Kim as my Ph.D. advisor.',
+          title: 'I have officially declared Professor Jungeum Kim as my Ph.D. advisor!!!',
           description: "",
           section: "News",},{
       id: 'light-theme',
