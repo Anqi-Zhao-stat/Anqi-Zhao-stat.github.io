@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed the PhD Qualifying exam at NCSU. 
+I passed the first-year Ph.D. Qualifying exam at NCSU department of Statistics!!

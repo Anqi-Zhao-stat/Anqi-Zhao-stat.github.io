@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed the Statistical Theory exam at the Ph.D. level at UW. 
+I passed the Statistical Theory exam at the Ph.D. level at UW department of Statistics!
