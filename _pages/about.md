@@ -11,13 +11,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: <a href="mailto:azhao6@ncsu.edu">azhao6@ncsu.edu</a></p>
+    <p>5109 SAS Hall</p>
+    <p>2311 Stinson Drive</p>
+    <p>Raleigh, NC 27606</p>
     <p>
       <a href="https://github.com/anqi-zhao-stat">GitHub</a> ·
       <a href="https://www.linkedin.com/in/anqi-z-760063252/">LinkedIn</a>
     </p>
-    <p>5109 SAS Hall</p>
-    <p>2311 Stinson Drive</p>
-    <p>Raleigh, NC 27606</p>
     
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
