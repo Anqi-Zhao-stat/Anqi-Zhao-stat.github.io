@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Teaching experience and instructional activities.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 
