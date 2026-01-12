@@ -12,12 +12,12 @@ nav_order: 5
 
 **Everything Qual Note**
 
-[Everything_Qual_ZAQ](https://anqi-zhao-stat.github.io/assets/pdf/Everything_Qual_ZAQ.pdf)
+[Everything_Qual_ZAQ](https://anqi-zhao-stat.github.io/assets/pdf/Everything_Qual_ZAQ.pdf)(191 pages)
 
-Drive address for [Everything_Qual_ZAQ (NCSU stat email required)](https://drive.google.com/drive/u/0/folders/17qkapFFDqTaLdbyERMyTlhIfPnhfQz1I)
+Online version for [Everything_Qual_ZAQ (NCSU stat email required)](https://drive.google.com/file/d/1ahXVkyZDbG8ILHu8gXrILhKDkTKiPqVI/view?usp=share_link)
 
 ### Computing Cheatsheet
 
 **Handwritten**
 
-[Cheatsheet](https://anqi-zhao-stat.github.io/assets/pdf/computing-final-cheatsheet.pdf)
+[Cheatsheet](https://anqi-zhao-stat.github.io/assets/pdf/computing-final-cheatsheet.pdf)(4 pages)
