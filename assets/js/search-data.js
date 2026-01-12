@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-resources",
-          title: "resources",
-          description: "Other resources or class materials",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resources/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Teaching experience and instructional activities.",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-resources",
+          title: "resources",
+          description: "Other resources or class materials",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
           },
         },{id: "news-i-passed-the-statistical-theory-exam-at-the-ph-d-level-at-uw-department-of-statistics",
           title: 'I passed the Statistical Theory exam at the Ph.D. level at UW department...',
