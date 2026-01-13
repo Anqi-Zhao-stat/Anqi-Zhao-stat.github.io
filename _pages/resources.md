@@ -8,9 +8,7 @@ nav_order: 5
 ---
 
 
-### Qualify Exam Preparation
-
-**Everything Qual Note**
+**Everything Qual Note for Qualify Exam Preparation**
 
 [Everything_Qual_ZAQ](https://anqi-zhao-stat.github.io/assets/pdf/Everything_Qual_ZAQ.pdf)(191 pages)
 
@@ -18,8 +16,7 @@ Online version for [Everything_Qual_ZAQ (NCSU stat email required)](https://driv
 
 [Aug2025_P1](https://anqi-zhao-stat.github.io/assets/pdf/Aug2025_ZAQ_P1.pdf)(15 pages); [Aug2025_P2](https://anqi-zhao-stat.github.io/assets/pdf/Aug2025_ZAQ_P2.pdf)(15 pages)
 
-### Computing Cheatsheet
 
-**Handwritten**
+**Handwritten Computing Cheatsheet**
 
 [Cheatsheet](https://anqi-zhao-stat.github.io/assets/pdf/computing-final-cheatsheet.pdf)(4 pages)
