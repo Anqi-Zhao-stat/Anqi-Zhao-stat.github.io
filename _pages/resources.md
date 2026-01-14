@@ -8,15 +8,21 @@ nav_order: 5
 ---
 
 
-**Everything Qual Note for Qualify Exam Preparation**
+## Everything Qual Notes (Qualifying Exam)
 
-[Everything_Qual_ZAQ](https://anqi-zhao-stat.github.io/assets/pdf/Everything_Qual_ZAQ.pdf) (191 pages)
+[Everything_Qual_ZAQ](https://anqi-zhao-stat.github.io/assets/pdf/Everything_Qual_ZAQ.pdf)  
+*(191 pages)*
 
-Online version for [Everything_Qual_ZAQ (NCSU stat email required)](https://drive.google.com/file/d/1exkFgx7ZKqtRhAsiy9eEcpOrSvSO5q91/view?usp=share_link)
+Online version:  
+[Everything_Qual_ZAQ (NCSU stat email required)](https://drive.google.com/file/d/1exkFgx7ZKqtRhAsiy9eEcpOrSvSO5q91/view?usp=share_link)
 
-[Aug2025_P1](https://anqi-zhao-stat.github.io/assets/pdf/Aug2025_ZAQ_P1.pdf) (15 pages); [Aug2025_P2](https://anqi-zhao-stat.github.io/assets/pdf/Aug2025_ZAQ_P2.pdf) (15 pages)
+Scanned exams:  
+- [Aug2025_P1](https://anqi-zhao-stat.github.io/assets/pdf/Aug2025_ZAQ_P1.pdf) *(15 pages)*  
+- [Aug2025_P2](https://anqi-zhao-stat.github.io/assets/pdf/Aug2025_ZAQ_P2.pdf) *(15 pages)*
 
+---
 
-**Handwritten Computing Cheatsheet**
+## Handwritten Computing Cheatsheet
 
-[Cheatsheet](https://anqi-zhao-stat.github.io/assets/pdf/computing-final-cheatsheet.pdf) (4 pages)
+[Computing Cheatsheet](https://anqi-zhao-stat.github.io/assets/pdf/computing-final-cheatsheet.pdf)  
+*(4 pages)*
