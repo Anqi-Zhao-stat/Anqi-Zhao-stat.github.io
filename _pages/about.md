@@ -36,7 +36,9 @@ publications: true
 I am a Ph.D. candidate in Statistics at North Carolina State University. My current research interests include machine learning, conformal prediction, and causal inference.
 You may find my CV [here](https://anqi-zhao-stat.github.io/assets/pdf/CV_website.pdf).
 
-I am advised by Professor [Jungeum Kim](https://jungeumkim.com) on uncertainty quantification for AI. I am collaborating with Professor [Shu Yang](https://shuyang.wordpress.ncsu.edu) on biostatistics and causal inference, with a focus on developing conformal prediction methods for treatment regime learning. I am also collaborating with Professor [Wenbin Lu](https://www4.stat.ncsu.edu/~wlu4//) on reinforcement learning approaches for survival analysis.
+[//]: # (I am advised by Professor [Jungeum Kim]&#40;https://jungeumkim.com&#41; on uncertainty quantification for AI. I am collaborating with Professor [Shu Yang]&#40;https://shuyang.wordpress.ncsu.edu&#41; on biostatistics and causal inference, with a focus on developing conformal prediction methods for treatment regime learning. )
+I am currently working with Professor [Jungeum Kim](https://jungeumkim.com) and Professor [Shu Yang](https://shuyang.worldpress.ncsu.edu) on uncertainty quantification for AI. 
+I am also collaborating with Professor [Wenbin Lu](https://www4.stat.ncsu.edu/~wlu4//) on reinforcement learning approaches for survival analysis.
 
 Prior to joining NC State, I earned an M.S. in Statistics from the University of Washington and a B.A. in Quantitative Economics, with a minor in Statistics, from the University of California, Irvine.
 
