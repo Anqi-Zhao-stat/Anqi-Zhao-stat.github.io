@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-06-26 17:36:00-0400
+date: 2026-04-08 13:30:00-0400
 inline: true
 related_posts: false
 ---
 
-I passed the Statistical Theory exam at the Ph.D. level at UW department of Statistics!
+I presented my poster at the [2026 Graduate Student Research Symposium](https://grad.ncsu.edu/students/signature-events/symposium/) at North Carolina State University!

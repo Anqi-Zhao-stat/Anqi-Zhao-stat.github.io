@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-11-10 14:15:00-0400
+date: 2026-06-17 08:30:00-0400
 inline: true
 related_posts: false
 ---
 
-I have officially declared Professor Jungeum Kim as my Ph.D. advisor!!!
-
+I am invited to present at the [International Chinese Statistical Association (ICSA)](https://www.icsa.org) session “Responsible Statistics and AI Methods for Health Applications”!
