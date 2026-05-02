@@ -37,14 +37,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resources/";
           },
-        },{id: "news-i-passed-the-statistical-theory-exam-at-the-ph-d-level-at-uw-department-of-statistics",
-          title: 'I passed the Statistical Theory exam at the Ph.D. level at UW department...',
+        },{id: "news-i-am-selected-as-a-recipient-of-the-william-h-swallow-fellowship-award-for-the-2025-2026-academic-year-at-north-carolina-state-university",
+          title: 'I am selected as a recipient of the William H. Swallow Fellowship Award...',
           description: "",
-          section: "News",},{id: "news-i-passed-the-first-year-ph-d-qualifying-exam-at-ncsu-department-of-statistics",
-          title: 'I passed the first-year Ph.D. Qualifying exam at NCSU department of Statistics!!',
+          section: "News",},{id: "news-i-presented-my-poster-at-the-2026-graduate-student-research-symposium-at-north-carolina-state-university",
+          title: 'I presented my poster at the 2026 Graduate Student Research Symposium at North...',
           description: "",
-          section: "News",},{id: "news-i-have-officially-declared-professor-jungeum-kim-as-my-ph-d-advisor",
-          title: 'I have officially declared Professor Jungeum Kim as my Ph.D. advisor!!!',
+          section: "News",},{id: "news-i-am-invited-to-present-at-the-international-chinese-statistical-association-icsa-session-responsible-statistics-and-ai-methods-for-health-applications",
+          title: 'I am invited to present at the International Chinese Statistical Association (ICSA) session...',
+          description: "",
+          section: "News",},{id: "news-i-will-present-a-15-minute-talk-at-the-joint-statistical-meetings-jsm-2026-in-boston-during-the-session-statistical-learning-and-data-science",
+          title: 'I will present a 15-minute talk at the Joint Statistical Meetings (JSM) 2026...',
           description: "",
           section: "News",},{
       id: 'light-theme',
