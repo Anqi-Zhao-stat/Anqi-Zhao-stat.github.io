@@ -46,8 +46,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-invited-to-present-at-the-international-chinese-statistical-association-icsa-in-arlington-virginia-during-the-session-responsible-statistics-and-ai-methods-for-health-applications",
           title: 'I am invited to present at the International Chinese Statistical Association (ICSA) in...',
           description: "",
-          section: "News",},{id: "news-i-will-present-a-15-minute-talk-at-the-joint-statistical-meetings-jsm-2026-in-boston-during-the-session-statistical-learning-and-data-science",
-          title: 'I will present a 15-minute talk at the Joint Statistical Meetings (JSM) 2026...',
+          section: "News",},{id: "news-i-will-present-our-recent-work-in-a-contributed-session-statistical-learning-and-data-science-at-the-joint-statistical-meetings-jsm-2026-in-boston-i-will-also-serve-as-a-session-chair-for-the-session-rank-order-statistic-and-u-statistic-methods-in-nonparametric-inference",
+          title: 'I will present our recent work in a contributed session Statistical Learning and...',
           description: "",
           section: "News",},{
       id: 'light-theme',
