@@ -22,7 +22,7 @@ Past exams:
 
 ### Flyers for Talks
 
-[2026 Summernar](https://anqi-zhao-stat.github.io/assets/img/Summernar_AZ.jpg)
+[2026_"Summernar"](https://anqi-zhao-stat.github.io/assets/img/Summernar_AZ.jpg)
 
 ### Other Resources
 
