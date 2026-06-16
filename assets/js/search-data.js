@@ -49,7 +49,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-invited-to-present-at-the-international-chinese-statistical-association-icsa-in-arlington-virginia-during-the-session-responsible-statistics-and-ai-methods-for-health-applications-i-am-selected-to-receive-the-nsf-travel-award-from-the-icsa-2026-applied-statistics-symposium-organizing-committee",
           title: 'I am invited to present at the International Chinese Statistical Association (ICSA) in...',
           description: "",
-          section: "News",},{id: "news-i-will-present-our-recent-work-in-a-contributed-session-statistical-learning-and-data-science-at-the-joint-statistical-meetings-jsm-2026-in-boston-i-will-also-serve-as-a-session-chair-for-the-session-rank-order-statistic-and-u-statistic-methods-in-nonparametric-inference",
+          section: "News",},{id: "news-i-will-present-our-recent-work-in-a-contributed-session-statistical-learning-and-data-science-at-the-joint-statistical-meetings-jsm-2026-in-boston-i-will-also-serve-as-a-session-chair-for-the-session-rank-order-statistic-and-u-statistic-methods-in-nonparametric-inference-i-am-receiving-the-asa-student-early-career-travel-award-to-support-my-travel",
           title: 'I will present our recent work in a contributed session Statistical Learning and...',
           description: "",
           section: "News",},{
